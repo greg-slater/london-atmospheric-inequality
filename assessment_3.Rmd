@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::include_graphics('output_pics/shiny/title_bar.png')
 ```
 
-# [London Air Pollution Exposure & Inequality](https://casa-gis-mod.shinyapps.io/shiny_app/)
+# [London Air Pollution Exposure & Inequality](https://greg-slater.shinyapps.io/shiny_app/)
 ## Context
 
 The global burden of disease and risk factors study of 2015 identifies air pollution as the fifth-leading global risk to population health (GBD, 2015). Earlier work by the same group estimated that in 2013, 87% of the world’s population resided in areas above the WHO guidelines for safe concentration levels of ambient particulate matter (PM2.5), and that between 1990 and 2013 there was a rise of 20.4% and 8.9% in PM2.5 and Ozone global concentrations respectively (Brauer et al., 2013).
